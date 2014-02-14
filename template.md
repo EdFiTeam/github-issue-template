@@ -1,9 +1,7 @@
 Issue Type:
-
 [Bug/Feature/Question]
 
 Issue:
-
 [Enter Issue Here]
 
 Licensee:
