@@ -4,7 +4,7 @@ $(function() {
   // Default the list of repos to the uberVU/mozaic repo if nothing has been
   // submitted yet
   if (localStorage[STORAGE_KEY] === undefined) {
-    localStorage[STORAGE_KEY] = 'uberVU/mozaic';
+    localStorage[STORAGE_KEY] = 'Ed-Fi-Alliance/Ed-Fi-Release';
   }
   // Create a list of clickable repos, loaded from local storage (saved from
   // the options page)

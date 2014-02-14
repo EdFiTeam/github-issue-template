@@ -7,7 +7,7 @@ $(function() {
   // Default the list of repos to the uberVU/mozaic repo if nothing has been
   // submitted yet
   if (localStorage[STORAGE_KEY] === undefined) {
-    localStorage[STORAGE_KEY] = 'uberVU/mozaic';
+    localStorage[STORAGE_KEY] = 'Ed-Fi-Alliance/Ed-Fi-Release';
   }
   // Start of form with previous repos from local storage
   $textarea.val(localStorage[STORAGE_KEY]);

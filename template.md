@@ -1,34 +1,13 @@
-## Need
+Issue Type:
 
-```gherkin
-As a [role]
-I want [feature]
-So that [benefit]
-```
+[Bug/Feature/Question]
 
-## Deliverables
+Issue:
 
-```gherkin
-Scenario: [title]
-Given [context]
-  And [some more context]
-When  [event]
-Then  [outcome]
-  And [another outcome]
-```
+[Enter Issue Here]
 
-## Solution
+Licensee:
+[Enter Licensee Name here]
 
-#### Prerequisites
-- [required dependency for identifying the problem, scope and then solution for this issue]
-
-#### TODO
-- [logical step in completing this story]
-
-#### Files
-- [path to a file involved in this story]
-
-#### Notes
-- [peculiar aspect relevant this story]
-
-#### #ETA [0-2]p
+Fix Supplied by:
+[Licensee/Ed-Fi-Alliance]
