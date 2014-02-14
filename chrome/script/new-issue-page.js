@@ -5,7 +5,7 @@ var $ISSUE_BODY = $('.composer [name="issue[body]"]');
 $(function() {
   // Adjust the placeholder of the title input as well, to comply with the BDD
   // story format
-  $ISSUE_TITLE.prop('placeholder', "Title (describe the issue)");
+  $ISSUE_TITLE.prop('placeholder', "Title (Short description of the issue)");
   // Let the user now immediately that a template is being fetched for the
   // fresh issue they're about to create
   $ISSUE_BODY.prop('placeholder', "Loading issue template...");
