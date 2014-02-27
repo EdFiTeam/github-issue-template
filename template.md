@@ -12,6 +12,9 @@ Component(s) Affected:
  ETL: XML, Dashboard, DashboardDW
  Database: ODS, Dashboard]
  
+Is this a breaking Change?
+[Yes/No]
+ 
 Issue:
 [Enter Issue Here]
 
